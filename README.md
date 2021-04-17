@@ -1,7 +1,7 @@
 # messaging-app-react
 
 1.start node server
- npm strat
+ run- npm strat
 
 2.cd into clinet folder 
-  npm start 
+ run- npm start 
