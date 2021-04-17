@@ -3,5 +3,5 @@
 1.start node server
  run- npm strat
 
-2.cd into clinet folder 
+2. to start react app cd into clinet folder 
  run- npm start 
