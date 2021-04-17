@@ -1,5 +1,7 @@
 # messaging-app-react
 
+###`npm i`
+
 1.start node server
   ### `npm start`
 
