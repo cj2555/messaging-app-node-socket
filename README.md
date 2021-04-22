@@ -1,4 +1,4 @@
-# messaging-app-react
+# messaging-app-node-socketIo
 
 ###`npm i`
 
